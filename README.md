@@ -4,19 +4,19 @@ Este repositorio contiene la descripción y programas utilizados para el anális
 # Contenido
 El repositorio de encuentra dividido por capitulos:
 
-C1 Poverty:
+C1 Pobreza:
 
 * Descripcion del capitulo
 * Bases de datos utilizadas
 * Resultados obtenidos
 
-C2 Human Capital:
+C2 Capital Humano:
 
 * Descripcion del capitulo
 * Bases de datos utilizadas
 * Resultados obtenidos
   
-C3 Labor Markets:
+C3 Mercados Laborales:
 
 * Descripcion del capitulo
 * Bases de datos utilizadas
