@@ -1,5 +1,5 @@
 # PAN_PA_2024
-Este repositorio contiene la descripción y programas utilizados para el análisis del reporte de pobreza de Panamá 2024 
+Este repositorio contiene la descripción y programas utilizados para el análisis del reporte de pobreza de Panamá 2024 del Banco Mundial
 
 # Contenido
 El repositorio de encuentra dividido por capitulos:
